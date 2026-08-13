@@ -7,7 +7,7 @@ Desarrolladora Full Stack de Rosario, Argentina.
 - **Glicemia-Calculadora** — Sistema web Django para asistencia en control de glicemia e
   insulinización en UCI, en uso real en el Hospital Eva Perón.
   [Código](https://github.com/bereail/Glicemia-Calculadora) ·
-  [Demo](http://138.36.238.175:8001/login/?next=/) (usuario `demo` / contraseña `Demo2026!`)
+  [Demo](http://138.36.238.175:8001/login/?next=/) (credenciales demo a pedido)
 - **VI** — Videoteca personal full-stack (React + Node + PostgreSQL) con catálogo real vía la
   API de TMDB.
   [Código](https://github.com/bereail/VI) ·
