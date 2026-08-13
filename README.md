@@ -1,10 +1,4 @@
-# ¡Hola! Soy Berenice 👋
-
-Desarrolladora Full Stack de Rosario, Argentina. Uno de mis proyectos, **Glicemia-Calculadora**,
-está en uso real en el Hospital Eva Perón para asistir el control de glicemia e insulinización
-en UCI.
-
-## 🛠️ Stack
+Desarrolladora Full Stack de Rosario, Argentina. 
 
 `Python` · `Django` · `React` · `TypeScript` · `Node.js` · `PostgreSQL` · `SQLite`
 
