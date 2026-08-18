@@ -8,10 +8,10 @@ Desarrolladora Full Stack de Rosario, Argentina.
   insulinización en UCI, en uso real en el Hospital Eva Perón.
   [Código](https://github.com/bereail/Glicemia-Calculadora) ·
   [Demo](http://138.36.238.175:8001/login/?next=/) (credenciales demo a pedido)
-- **StockFlow** — Sistema de inventario de insumos IT (tóners, PCs, impresoras) como
+- **stockTonerDesktop** — Sistema de inventario de insumos IT (tóners, PCs, impresoras) como
   app de escritorio, con Django embebido y backend nativo (pywebview), en uso real en el mismo
   hospital.
-  [Código](https://github.com/bereail/StockFlow)
+  [Código](https://github.com/bereail/stockTonerDesktop)
 - **VI** — Videoteca personal full-stack (React + Node + PostgreSQL) con catálogo real vía la
   API de TMDB.
   [Código](https://github.com/bereail/VI) ·
