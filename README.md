@@ -11,7 +11,7 @@ Desarrolladora Full Stack de Rosario, Argentina.
 - **stockTonerDesktop** — Sistema de inventario de insumos IT (tóners, PCs, impresoras) como
   app de escritorio, con Django embebido y backend nativo (pywebview), en uso real en el mismo
   hospital.
-  [Código](https://github.com/bereail/stockTonerDesktop)
+  [Código](https://github.com/bereail/StockFlow)
 - **VI** — Videoteca personal full-stack (React + Node + PostgreSQL) con catálogo real vía la
   API de TMDB.
   [Código](https://github.com/bereail/VI) ·
